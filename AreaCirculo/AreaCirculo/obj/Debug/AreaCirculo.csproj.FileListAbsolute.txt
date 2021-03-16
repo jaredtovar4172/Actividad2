@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\AreaCirculo\AreaCirculo\bin\Debug\AreaCirculo.exe.config
+C:\Users\jared\source\repos\AreaCirculo\AreaCirculo\bin\Debug\AreaCirculo.exe
+C:\Users\jared\source\repos\AreaCirculo\AreaCirculo\bin\Debug\AreaCirculo.pdb
+C:\Users\jared\source\repos\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.Form1.resources
+C:\Users\jared\source\repos\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.Properties.Resources.resources
+C:\Users\jared\source\repos\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.exe
+C:\Users\jared\source\repos\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.pdb
